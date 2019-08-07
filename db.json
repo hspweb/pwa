@@ -1,2 +1,24 @@
 {
+"producst" [
+{"id":1,"name":"Rhinoceros, black","category":"Green"},
+{"id":2,"name":"River wallaby","category":"Aquamarine"},
+{"id":3,"name":"Russian dragonfly","category":"Yellow"},
+{"id":4,"name":"African black crake","category":"Purple"},
+{"id":5,"name":"Old world fruit bat (unidentified)","category":"Turquoise"},
+{"id":6,"name":"Phascogale, brush-tailed","category":"Violet"},
+{"id":7,"name":"Glider, feathertail","category":"Turquoise"},
+{"id":8,"name":"Pale white-eye","category":"Fuscia"},
+{"id":9,"name":"Gelada baboon","category":"Aquamarine"},
+{"id":10,"name":"White-throated robin","category":"Yellow"},
+{"id":11,"name":"Roseate cockatoo","category":"Mauv"},
+{"id":12,"name":"Lilac-breasted roller","category":"Aquamarine"},
+{"id":13,"name":"American badger","category":"Aquamarine"},
+{"id":14,"name":"Brazilian tapir","category":"Khaki"},
+{"id":15,"name":"Eastern box turtle","category":"Goldenrod"},
+{"id":16,"name":"Hottentot teal","category":"Violet"},
+{"id":17,"name":"Water moccasin","category":"Pink"},
+{"id":18,"name":"Mountain duck","category":"Teal"},
+{"id":19,"name":"Badger, honey","category":"Orange"},
+{"id":20,"name":"California sea lion","category":"Green"}
+]
 }
